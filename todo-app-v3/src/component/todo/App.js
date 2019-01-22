@@ -78,7 +78,7 @@ class TodoItem extends React.Component{
 
         return ( 
             <div className="App-item">
-                <input type="checkbox" value={this.props.count} checked={this.props.selected} onClick={this.props.handleChangeSelected} />
+                <input type="checkbox" value={this.props.count} checked={this.props.selected} onChange={this.props.handleChangeSelected} />
                 <label  className="App-item-count" style={styleOfUnSelect} >{this.props.count}</label>
                 <label  className="App-item-detail" style={this.props.selected?styleOfSelect:styleOfUnSelect} >{this.props.text}</label>
                 <button className="App-remove-item-btn" onClick={this.props.handleDelItem} value={this.props.count}>刪除</button>

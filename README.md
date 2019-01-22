@@ -31,7 +31,7 @@
 運用到的知識
 - 練習 **javascript**物件陣列運用
 
-## 3 todo-app-v3
+## 4 todo-app-v3
 
 接續 **TodoAppV2**，增加 css樣式。
 

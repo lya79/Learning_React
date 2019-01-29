@@ -30,11 +30,3 @@
 
 運用到的知識
 - 練習 **javascript**物件陣列運用
-
-## 4 todo-app-v3
-
-接續 **TodoAppV2**，增加 css樣式。
-
-運用到的知識
-- 練習使用 **create-react-app** [https://github.com/facebook/create-react-app]
-- 練習使用 **css**
